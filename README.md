@@ -1,2 +1,2 @@
 # Primer-repositorio
-Aprendiendo a usar GitHub
+Vamos a probar como se pueden modificar los ficheros, añadiendo datos y que aparezcan una vez los guardes.
